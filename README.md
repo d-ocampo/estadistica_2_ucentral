@@ -26,6 +26,7 @@ David Ocampo
 Mg. en Ingeniería de la Información
 
 Estadístico
+
 Correo: 
 - docampol@ucentral.edu.co
 - daocampol@unal.edu.co
