@@ -22,7 +22,9 @@ Además de los conceptos teóricos, te brindamos la oportunidad de interactuar c
 
 ### Profesor
 David Ocampo
+
 Mg. en Ingeniería de la Información
+
 Estadístico
 Correo: 
 - docampol@ucentral.edu.co
