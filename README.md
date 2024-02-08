@@ -19,3 +19,11 @@ El cálculo adecuado del tamaño de la muestra es crucial para obtener resultado
 Además de los conceptos teóricos, te brindamos la oportunidad de interactuar con herramientas en tendencia que son ampliamente utilizadas en el mercado laboral. Aprenderás a utilizar software estadístico actualizado, así como plataformas en la nube y lenguajes de programación populares para análisis de datos, lo que te permitirá destacarte en tu carrera profesional.
 
 ¡Únete a nosotros en este emocionante viaje de exploración y aplicación de la estadística inferencial en el mundo real! Estamos aquí para ayudarte a desarrollar las habilidades que necesitas para tener éxito en tu carrera y contribuir al avance de la ciencia y la toma de decisiones basada en datos.
+
+### Profesor
+David Ocampo
+Mg. en Ingeniería de la Información
+Estadístico
+Correo: 
+- docampol@ucentral.edu.co
+- daocampol@unal.edu.co
